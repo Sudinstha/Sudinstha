@@ -34,7 +34,7 @@ Hi there 👋
 ### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sudin-shrestha-1464812a4/)
-- [Portfolio](sudinstha.com)
+- [Portfolio](https://www.sudinstha.com)
 
 ---
 
