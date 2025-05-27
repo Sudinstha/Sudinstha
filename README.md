@@ -1,7 +1,6 @@
 <h1 align="center">
 Hi there 👋
 </h1> 
-  
 
 <h1 align="center">I'm Sudin Shrestha 👋</h1>
 <p align="center">Aspiring Frontend Developer | MERN Stack Enthusiast | Passionate about building beautiful web experiences</p>
@@ -19,15 +18,7 @@ Hi there 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
-
----
-
-### 🚀 Projects
-
-- 💼 [Portfolio Website](#)
-- 🛒 [E-commerce App](#)
 
 ---
 
